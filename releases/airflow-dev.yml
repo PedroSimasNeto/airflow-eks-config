@@ -8,7 +8,7 @@ metadata:
 spec:
   releaseName: airflow-dev
   chart:
-    repository: https://github.com/PedroSimasNeto/airflow-eks-helm-chart.git
+    repository: https://github.com/PedroSimasNeto/airflow-eks-helm-chart
     name: airflow
     version: 1.0.0
   values:
